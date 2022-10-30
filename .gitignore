@@ -6,7 +6,7 @@
 
 # eclipse ignore
 .settings/
-.project 
+.project
 .classpath
 
 # idea  ignore

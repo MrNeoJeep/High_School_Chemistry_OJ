@@ -3,7 +3,7 @@ const state = {
   user: {
     sexEnum: [{ key: 1, value: '男' }, { key: 2, value: '女' }],
     statusEnum: [{ key: 1, value: '启用' }, { key: 2, value: '禁用' }],
-    levelEnum: [{ key: 1, value: '高一' }, { key: 2, value: '高二' }, { key: 3, value: '高三' }],
+    levelEnum: [{ key: 10, value: '高一' }, { key: 11, value: '高二' }, { key: 12, value: '高三' }],
     roleEnum: [{ key: 1, value: '学生' }, { key: 2, value: '教师' }, { key: 3, value: '管理员' }],
     statusTag: [{ key: 1, value: 'success' }, { key: 2, value: 'danger' }],
     statusBtn: [{ key: 1, value: '禁用' }, { key: 2, value: '启用' }]
